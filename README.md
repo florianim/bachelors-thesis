@@ -7,6 +7,9 @@ The data that was used is publicly available via the following links:
 - gas prices https://fred.stlouisfed.org/series/PNGASEUUSDM
 - oil prices https://fred.stlouisfed.org/series/DCOILBRENTEU
 
+## Shapley Flow repository
+The Shapley flow implementation is available at https://github.com/nathanwang000/Shapley-Flow
+
 ## Abstract
 The increasing complexity of modern machine learning models presents
 a challenge to their interpretability. In response, the field of Explainable
