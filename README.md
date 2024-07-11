@@ -1,5 +1,9 @@
 # Shapley-based Causal Explanations of AI Models for Electricity Price Forecasting
 
+## Reproducability
+If you want to reproduce the results, you need to gather the data (see Data Availability).
+A self-contained example using synthetic data is contained in the synthetic_example_gbt.ipynb notebook.
+
 ## Data Availability
 The data that was used is publicly available via the following links:
 - ENTSO-E https://transparency.entsoe.eu/
