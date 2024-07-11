@@ -10,6 +10,7 @@ The data that was used is publicly available via the following links:
 - carbon prices https://carbonpricingdashboard.worldbank.org/compliance/price
 - gas prices https://fred.stlouisfed.org/series/PNGASEUUSDM
 - oil prices https://fred.stlouisfed.org/series/DCOILBRENTEU
+- temperature https://open-meteo.com/en/docs/historical-weather-api
 
 ## Shapley Flow repository
 The Shapley flow implementation is available at https://github.com/nathanwang000/Shapley-Flow
